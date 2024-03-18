@@ -1,1 +1,4 @@
 http://documentation.zemez.io/html/bootstrap/v1-4/
+
+To run game. Go to TDSWeb directory and run in CMD:
+python -m http.server
